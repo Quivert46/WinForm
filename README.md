@@ -26,6 +26,9 @@
 
 # Bai 4.8
 ##
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/cf840ab3-2933-4591-a68f-57e0da699ba4" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/fc879e70-5f68-4fb6-9b56-3d3ae74ced45" />
+
 
 
 # Bai 5.1
