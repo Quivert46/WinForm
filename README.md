@@ -14,6 +14,20 @@
 ##
 <img width="672" height="431" alt="Screenshot 2026-09-24 160823" src="https://github.com/user-attachments/assets/234b8033-15bd-464d-87f4-20d9c7db2c70" />
 
+# Bai 4.6
+##
+<img width="987" height="681" alt="image" src="https://github.com/user-attachments/assets/9d14b118-3ce5-461c-bd58-51e71e161eef" />
+
+# Bai 4.7
+##
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/3136f303-f95d-4e2b-a1f8-6cbff8faf9b3" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/03dbd77b-ac4f-4bc1-8487-ad952363e70f" />
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/53ff7adf-c462-4add-9c5d-b901a12c47cb" />
+
+# Bai 4.8
+##
+
+
 # Bai 5.1
 ##
 <img width="792" height="481" alt="image" src="https://github.com/user-attachments/assets/a5d7437a-208a-4426-8bcb-34f2c433a55e" />
