@@ -29,6 +29,22 @@
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/cf840ab3-2933-4591-a68f-57e0da699ba4" />
 <img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/fc879e70-5f68-4fb6-9b56-3d3ae74ced45" />
 
+# Bai 4.9
+##
+<img width="1241" height="756" alt="image" src="https://github.com/user-attachments/assets/42d62c66-1674-46fc-9e59-73061920bd20" />
+<img width="1245" height="752" alt="image" src="https://github.com/user-attachments/assets/265c4f5f-d31d-4969-b267-a6689a1d6273" />
+<img width="1242" height="757" alt="image" src="https://github.com/user-attachments/assets/a18f86cf-7fe0-4908-adf5-90adb3940347" />
+
+# Bai 4.10
+##
+<img width="1116" height="725" alt="image" src="https://github.com/user-attachments/assets/56b0bde2-ae0c-4b05-b06f-1c5cc936b870" />
+<img width="1115" height="726" alt="image" src="https://github.com/user-attachments/assets/e4771c28-c3b1-4805-9537-e029f922d092" />
+
+# ai 4.11
+##
+<img width="1355" height="862" alt="image" src="https://github.com/user-attachments/assets/f8d4ecb6-4958-49dc-aac5-a0cffdf8c760" />
+<img width="1365" height="862" alt="image" src="https://github.com/user-attachments/assets/f20a0d14-076a-4f4a-8039-03b4005e843e" />
+<img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/865c6fdb-1bc7-4306-887a-d88ecb0cfff6" />
 
 
 # Bai 5.1
