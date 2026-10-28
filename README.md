@@ -2,8 +2,19 @@
 # Bai 4.1
 ## 
 <img width="1621" height="470" alt="Screenshot 2026-09-24 144405" src="https://github.com/user-attachments/assets/7f1c3c8d-b29d-4cf9-8501-865bf87ea93c" />
-# Bai 4.2
+
+# Bai 4.1+
 ##
+<img width="1711" height="902" alt="download" src="https://github.com/user-attachments/assets/7ff6e2ac-cabc-4d26-b5fd-be73be7ed4ba" />
+<img width="1707" height="906" alt="download" src="https://github.com/user-attachments/assets/5c621082-8062-48d2-806d-d1d4afd9b9e2" />
+
+# Bai 4.2+
+##
+<img width="1307" height="872" alt="download" src="https://github.com/user-attachments/assets/c68b690a-d055-4132-a6a3-1f0eae6cdb24" />
+<img width="1306" height="862" alt="download" src="https://github.com/user-attachments/assets/d865622d-43a7-46a8-af4e-c7b0f29ea61f" />
+<img width="1302" height="861" alt="download" src="https://github.com/user-attachments/assets/21f4eab0-e814-46a3-9666-9cc4a719d367" />
+<img width="1291" height="857" alt="download" src="https://github.com/user-attachments/assets/ff30b223-647b-4077-b4f3-a79a52baf210" />
+<img width="1661" height="852" alt="download" src="https://github.com/user-attachments/assets/54272419-18be-487e-a0ca-383f136d1f1a" />
 
 
 # Bai 4.3
